@@ -10,7 +10,8 @@ _Building modern, scalable web applications with clean architecture and user-foc
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miladebrahimzade@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miladebrahimzade)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Miladebrahimzade)
+
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/Miladebrahimzade) -->
 
 </div>
 
@@ -104,7 +105,7 @@ Modern, responsive storefront built during an internship
 </tr>
 </table>
 
-➡️ **[View All Repositories](https://github.com/Miladebrahimzade?tab=repositories)**
+<!-- ➡️ **[View All Repositories](https://github.com/Miladebrahimzade?tab=repositories)** -->
 
 ---
 
@@ -112,10 +113,10 @@ Modern, responsive storefront built during an internship
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=Miladebrahimzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Miladebrahimzade&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miladebrahimzade&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miladebrahimzade&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miladebrahimzade&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" height="165">
 
 </div>
 
@@ -128,7 +129,5 @@ Modern, responsive storefront built during an internship
 📍 **Tehran, Iran** · Open to Remote Opportunities
 
 _"Code is like humor. When you have to explain it, it's bad."_
-
-![Profile Views](https://komarev.com/ghpvc/?username=Miladebrahimzade&color=blueviolet&style=flat-square)
 
 </div>
